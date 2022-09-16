@@ -8,3 +8,6 @@
 - 노는게 제일 좋아요.
 - 웹해킹 분야에 엄청난 관심이 있어요.
 - 등등 더 궁금한게 있다면 따로 연락주세요. <3
+
+<hr>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chaeyunss&langs_count=8)](https://github.com/chaeyunss/github-readme-stats)
